@@ -56,12 +56,13 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/DavShiv20/count.svg?"  />
+  
 </div>
-
-###
+<!-- <div align="center">
+  ![Davshiv20's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davshiv20&theme=dracula&hide_border=true)
+</div> -->
+  
 
 <div align="center">
   <img height="200" src="https://giffiles.alphacoders.com/221/221133.gif"  />
 </div>
-
-###
